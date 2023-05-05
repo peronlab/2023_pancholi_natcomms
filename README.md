@@ -6,7 +6,7 @@ Comms. "Learning in a sensory cortical microstimulation task is associated
 with elevated representational stability". 
 
 If you only downloaded the code, you will need to download the data using the
-URL: https://peronlab.org/data/2023_pancholi_microstim_learning.zip
+URL: http://peronlab.org/data/2023_pancholi_microstim_learning.zip
 
 The one change you will need to make is to "get_all_data_pstim.m", where you
 will need to set settings.base_dir to wherever the code lives. The assumption
